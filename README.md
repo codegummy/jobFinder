@@ -14,9 +14,11 @@ This is a bot designed to track jobs on Finn.no based on filters submitted
 
       ```
 ## Running the Script
+
 1. Open command line interface
 2. Navigate to the directory containing the scripts
 3. 3. Run the script using Python:
    ```sh
    python bot.py
+         ```
 
