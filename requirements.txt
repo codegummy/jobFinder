@@ -1,1 +1,5 @@
-txt
+selenium
+requests
+bs4
+pandas
+time

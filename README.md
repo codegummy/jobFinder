@@ -11,14 +11,12 @@ This is a bot designed to track jobs on Finn.no based on filters submitted
   - Run the ff command to install libraries: 
   ``` sh
    pip install -r requirements.txt
-      ```
+
 
 ## **Requirements**
 
 1. Open command line interface
 2. Navigate to the directory containing the scripts
-3. 3. Run the script using Python:
-   ```sh
-   python bot.py
-         ```
+3.  Run the script using Python:
+   ```sh python main.py ```
 
